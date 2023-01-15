@@ -1,0 +1,24 @@
+2023-01-09 06:37:21,659 : DEBUG : test_fifteen_logging : A debug statement is executed
+2023-01-09 06:37:21,660 : INFO : test_fifteen_logging : Information statement
+2023-01-09 06:37:21,660 : WARNING : test_fifteen_logging : Something is in warning mode
+2023-01-09 06:37:21,660 : ERROR : test_fifteen_logging : A major error has happened
+2023-01-09 06:37:21,660 : CRITICAL : test_fifteen_logging : Critical issue
+2023-01-09 06:46:48,678 : DEBUG : root : A debug statement is executed
+2023-01-09 06:46:48,678 : INFO : root : Information statement
+2023-01-09 06:46:48,679 : WARNING : root : Something is in warning mode
+2023-01-09 06:46:48,679 : ERROR : root : A major error has happened
+2023-01-09 06:46:48,679 : CRITICAL : root : Critical issue
+2023-01-09 06:55:04,996 : ERROR : test_fifteen_logging : A major error has happened
+2023-01-09 06:55:04,996 : CRITICAL : test_fifteen_logging : Critical issue
+2023-01-09 07:13:11,756 : INFO : pytestdel.test_sixteen_logging : Abhishek
+2023-01-09 07:13:11,757 : INFO : pytestdel.test_sixteen_logging : abhishek.gaikwad082gmail.com
+2023-01-09 07:16:56,411 : INFO : pytestdel.test_sixteen_logging : Abhishek
+2023-01-09 07:16:56,412 : INFO : pytestdel.test_sixteen_logging : abhishek.gaikwad082gmail.com
+2023-01-09 07:17:55,108 : INFO : pytestdel.test_sixteen_logging : Abhishek
+2023-01-09 07:17:55,108 : INFO : pytestdel.test_sixteen_logging : abhishek.gaikwad082gmail.com
+2023-01-09 07:18:17,044 : INFO : pytestdel.test_sixteen_logging : Abhishek
+2023-01-09 07:18:17,044 : INFO : pytestdel.test_sixteen_logging : abhishek.gaikwad082gmail.com
+2023-01-09 07:19:41,027 : INFO : test_editprofile : Abhishek
+2023-01-09 07:19:41,027 : INFO : test_editprofile : abhishek.gaikwad082gmail.com
+2023-01-09 07:26:20,703 : INFO : test_editprofile : Abhishek
+2023-01-09 07:26:20,703 : INFO : test_editprofile : abhishek.gaikwad082gmail.com

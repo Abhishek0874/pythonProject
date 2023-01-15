@@ -1,0 +1,22 @@
+2023-01-14 10:58:09,273 : INFO : test_e2e : Getting all the product titles
+2023-01-14 10:58:09,876 : INFO : test_e2e : Entering country name as ind
+2023-01-14 10:58:15,729 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-14 11:01:48,133 : INFO : test_e2e : Getting all the product titles
+2023-01-14 11:01:48,577 : INFO : test_e2e : Entering country name as ind
+2023-01-14 11:01:54,261 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-14 16:12:26,294 : INFO : test_e2e : Getting all the product titles
+2023-01-14 16:12:26,822 : INFO : test_e2e : Entering country name as ind
+2023-01-14 16:12:32,511 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-14 16:20:09,901 : INFO : test_e2e : Getting all the product titles
+2023-01-14 16:20:10,364 : INFO : test_e2e : Entering country name as ind
+2023-01-14 16:20:16,258 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-14 16:27:02,099 : INFO : test_e2e : Getting all the product titles
+2023-01-14 16:27:02,767 : INFO : test_e2e : Entering country name as ind
+2023-01-14 16:27:08,649 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-01-15 07:53:13,213 : INFO : test_submissionForm : first name is mayur
+2023-01-15 07:54:06,238 : INFO : test_submissionForm : first name is mayur
